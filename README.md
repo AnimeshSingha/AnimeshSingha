@@ -1,13 +1,13 @@
-Real-Time Face Detection And Recognition System
+**Real-Time Face Detection And Recognition System**
 Hello Everyone this is Animesh Singha, Student of Rangamati Science and Technology University pursuing my Bsc engineering in Computer Science This is one of my project's in Digital Image Processing Python Developement field which i have created,basically with Python Based on Student’s Attendance System that uses the property of Real-Time Face Detection And Recognition .
-How to execute the program
+**How to execute the program**
 1.	Install pycharm IDE, python 3.7
 2.	Create your own  firebase account for database and storage
 3.	Make a json file for database and copy the link from storage
 4.	Change database url and storage bucket from the firebase generated link
 5.	Execute the program
 
-Library Requirements
+**Library Requirements**
 	pip install cmake
 	pip install dlib
 	pip install face-recognition
